@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build --force",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -27,7 +27,7 @@
     "react-icons": "^4.9.0",
     "react-reveal": "^1.2.2",
     "react-typed": "^1.2.0",
-
+    "react-water-wave": "^2.0.1",
     "typeface-roboto": "^1.1.13",
     "typescript": "5.0.4"
   },
